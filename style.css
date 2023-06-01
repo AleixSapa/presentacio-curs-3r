@@ -2,3 +2,26 @@
     width: 100px;
     height: 50px;
 }
+
+ul.index-button {
+    list-style-type: none;
+}
+
+.contenedor {
+    display: flex;
+    flex-direction: row;
+}
+
+.contenedor img {
+    width: 20%;
+    /* Ajusta el ancho de la imagen según tus necesidades */
+}
+
+.contenedor ol {
+    margin-left: 20px;
+    /* Ajusta el margen izquierdo según tus necesidades */
+}
+
+li {
+    font-size: 20px;
+}
